@@ -6,11 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="E:/Softwares/Selenium Jar 3_141_59/libs/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="E:/Softwares/Selenium Jar 3_141_59/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="E:/Softwares/Selenium Jar 3_141_59/libs/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="E:/Softwares/Selenium Jar 3_141_59/libs/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="E:/Softwares/Selenium Jar 3_141_59/libs/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="E:/Softwares/Selenium Jar 3_141_59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajdeep/eclipse-workspace/ZZZRahulShettySeleniumPractice/SeleniumJars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajdeep/eclipse-workspace/ZZZRahulShettySeleniumPractice/SeleniumJars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajdeep/eclipse-workspace/ZZZRahulShettySeleniumPractice/SeleniumJars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajdeep/eclipse-workspace/ZZZRahulShettySeleniumPractice/SeleniumJars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajdeep/eclipse-workspace/ZZZRahulShettySeleniumPractice/SeleniumJars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rajdeep/eclipse-workspace/ZZZRahulShettySeleniumPractice/SeleniumJars/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
